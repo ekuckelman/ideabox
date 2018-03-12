@@ -144,7 +144,8 @@ textarea {
   background-image: url('FEE-ideabox-icon-assets/downvote-hover.svg');
 }
 
-.quality {
+.quality,
+.vote {
   color: #6D6E71;
   display: inline;
   font-size: .75em;
